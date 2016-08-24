@@ -1,0 +1,1 @@
+See godoc at http://godoc.org/github.com/Travix-International/loggy
